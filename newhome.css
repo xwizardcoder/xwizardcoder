@@ -9,12 +9,7 @@
     --navcolor:rgb(181, 230, 244);
 }
 
-.menubar button {}
-@media only screen and (max-width:500px) {
- 
-  .menu, .main, .right {
-    width: 100%;
-  }
+
 
 .nav {
     display: flex;
